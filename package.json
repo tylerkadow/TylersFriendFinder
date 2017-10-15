@@ -1,0 +1,25 @@
+{
+  "name": "tylersfriendfinder",
+  "version": "1.0.0",
+  "description": "Finder of friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerkadow/TylersFriendFinder.git"
+  },
+  "author": "Tyler",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "body-parser": "^1.18.2",
+    "path": "^0.12.7"
+  },
+  "bugs": {
+    "url": "https://github.com/tylerkadow/TylersFriendFinder/issues"
+  },
+  "homepage": "https://github.com/tylerkadow/TylersFriendFinder#readme"
+}
